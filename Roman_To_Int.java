@@ -24,7 +24,7 @@ class Solution {
                 result+=hm.get(Char[i]);
             }
         }
-        result+=hm.get(Char[i]);
+        result+=hm.get(Char[i]); //Add Last Character Value
         return result;
 
        
